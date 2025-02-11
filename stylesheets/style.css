@@ -704,6 +704,10 @@ a.scheme:hover {
     .hide-on-mobile{
         display: none !important;   
     }
+
+    .logo{
+        width: auto !important;
+    }
 }
 
 /* Header v2 */
